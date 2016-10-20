@@ -1,0 +1,22 @@
+{
+  "name": "@ruilee16/node",
+  "version": "1.0.0",
+  "description": "this should be the second hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruilee16/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "'@ruilee16/hello' <'@ruilee16/hello'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruilee16/node/issues"
+  },
+  "homepage": "https://github.com/ruilee16/node#readme"
+}
